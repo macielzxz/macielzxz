@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprender mais sobre desenvolvimento e programação.</p>
+<p align="left">Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprender mais sobre desenvolvimento e programação. Desenvolvedor em constante aprendizado, movido por desafios, café e vontade de criar coisas que funcionem de verdade. </p>
 
 ###
 
